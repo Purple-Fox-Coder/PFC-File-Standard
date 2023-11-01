@@ -23,7 +23,7 @@ Descriptive names are preferred over numbered or alphabetical names I.E. ./color
 1. ./NASA/roverProgram/
 2. ./NASA_roverProgram/
 3. ./Android/plans/
-4. ./Discord/bots/managementBot
+4. ./Discord/bots/managementBot/
 
 # Files:
 Files are to be named by what they contain, just as with folders.  They should be more specific than folders though.  Any spaces 

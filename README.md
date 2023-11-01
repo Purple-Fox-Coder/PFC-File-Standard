@@ -5,7 +5,7 @@
  This file goes over my general standard, covering general non-programming focused files and folders.
 
  The goal is to create an easy to explore through terminal and consistent file saving system for sharing with peers and locating files\
- while remaining as simple as possible.\
+ while remaining as simple as possible.
 
 # Folders:
 Folders are to be named simply by what they contain.  For simplicity of access through console any spaces should be underscores: _  
